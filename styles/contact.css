@@ -1,0 +1,34 @@
+/* .contactclass {
+    background-color: black;
+}
+.contactclass label{
+    color: white;
+} */
+.optionsstyle{
+    margin: 14px 0px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding: 8px;
+
+}
+/* .contactclass input{
+    background-color: transparent;
+    color: white;
+}
+.contactclass textarea{
+    background-color: transparent;
+    color: white;
+} */
+.inputsstyle{
+    background-color: transparent;
+    color: white;
+    
+    border: 1px solid white;
+}
+.forms{
+    border: 1px solid white;
+    border-radius: 13px;
+}
+.booking{
+    font-size: 39px;
+}
